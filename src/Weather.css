@@ -27,15 +27,21 @@
   color: rgb(101, 101, 226);
 }
 
+.Weather canvas {
+  height: 45px;
+  width: 45px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
 .Weather .temperature {
-  font-size: 32px;
+  font-size: 45px;
   font-weight: 500;
   vertical-align: middle;
-  margin-left: 10px;
 }
 
 .Weather .unit {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 500;
   position: relative;
   top: -5px;
