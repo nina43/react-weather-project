@@ -11,7 +11,7 @@ export default function App() {
           <a
             href="https://github.com/nina43/react-weather-project"
             target="_blank"
-            noopener
+            noopener="true"
             rel="noreferrer"
           >
             open-sourced
